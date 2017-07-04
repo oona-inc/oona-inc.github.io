@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oona Inc.</title>
+    <link>http://www.oona.io/</link>
+    <description>Recent content on Oona Inc.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Tue, 04 Jul 2017 17:45:27 +0900</lastBuildDate>
+    
+	<atom:link href="http://www.oona.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World!</title>
+      <link>http://www.oona.io/post/hello-world/</link>
+      <pubDate>Tue, 04 Jul 2017 17:45:27 +0900</pubDate>
+      
+      <guid>http://www.oona.io/post/hello-world/</guid>
+      <description>#include &amp;lt;stdio.h&amp;gt; int main(int argc, char *argv[]) { printf(&amp;quot;Hello World!&amp;quot;); }  </description>
+    </item>
+    
+  </channel>
+</rss>
